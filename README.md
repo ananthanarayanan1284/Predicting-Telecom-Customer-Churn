@@ -5,7 +5,7 @@ This end-to-end ML project uses the Telco Customer Churn dataset, applies SMOTE 
 The dashboard outputs actionable customer retention insights backed by model predictions.
 
 ## Team Members
-- Ananthanarayanan B
+- Ananthanarayanan B 
 - Lanka Priya
 - Abhitha Raj .S .R
   
